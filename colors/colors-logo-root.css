@@ -1,0 +1,5 @@
+:root {
+	/* Green */
+	--logo-green: hsl(120, 50%, 50%);
+	--logo-green_bg: hsl(120, 60%, 80%);
+}
