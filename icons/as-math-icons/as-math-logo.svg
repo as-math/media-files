@@ -7,6 +7,6 @@
 	</defs>
 	<g	transform="translate(47 54)">
 		<path fill="var(--logo-green_bg)" stroke="var(--logo-green)" stroke-width="3" d="M 0 -52 L 45 -26 L 45 26 L 0 52 L -45 26 L -45 -26 Z"/>
-		<text text-anchor="middle" dominant-baseline="central" font-size="80" font-family="Arbutus Slab" fill="var(--logo-green)" stroke="var(--logo-green)" stroke-width="0">?</text>
+		<text text-anchor="middle" dominant-baseline="central" font-size="80" font-family="Arbutus Slab" fill="var(--logo-green)">?</text>
 	</g>
 </svg>
