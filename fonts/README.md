@@ -10,14 +10,14 @@ HTML import:
 <link rel="stylesheet" href="https://as-math.github.io/media-files/fonts/ArbutusSlab/arbutusSlab.css">
 ```
 
-# Gabriela
+# Kurale
 
 CSS import:
 ```css
-@import url("https://as-math.github.io/media-files/fonts/Gabriela/gabriela.css");
+@import url("https://as-math.github.io/media-files/fonts/Kurale/kurale.css");
 ```
 
 HTML import:
 ```html
-<link rel="stylesheet" href="https://as-math.github.io/media-files/fonts/Gabriela/gabriela.css">
+<link rel="stylesheet" href="https://as-math.github.io/media-files/fonts/Kurale/kurale.css">
 ```
