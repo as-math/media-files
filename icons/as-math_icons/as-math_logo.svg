@@ -2,8 +2,8 @@
 	<defs>
 		<style>
 			:root {
-				--logo-green: hsl(105, 50%, 55%);
-				--logo-green_bg: hsl(105, 50%, 85%);
+				--logo-green: hsl(105, 50%, 54%);
+				--logo-green_bg: hsl(105, 51%, 85%);
 			}
 		</style>
 	</defs>
