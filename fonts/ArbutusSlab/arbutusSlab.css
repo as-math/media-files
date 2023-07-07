@@ -1,6 +1,8 @@
 @font-face {
-    font-family: 'Arbutus Slab';
-    src: local('Arbutus Slab'), local('ArbutusSlab-Regular'), url('./ArbutusSlab.woff2') format('woff2'), url('./ArbutusSlab.woff') format('woff'), url('./ArbutusSlab.ttf') format('truetype');
-    font-weight: 400;
-    font-style: normal;
+	font-family: 'Arbutus Slab';
+	src: url('./ArbutusSlab.woff2') format('woff2'),
+		url('./ArbutusSlab.woff') format('woff'),
+		url('./ArbutusSlab.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
 }
